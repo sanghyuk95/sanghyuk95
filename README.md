@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 기술스택
+![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-2E9AFE?style=for-the-badge&logo=React&logoColor=ffffff)
 
-![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=HTML5)
+
+
+
 
